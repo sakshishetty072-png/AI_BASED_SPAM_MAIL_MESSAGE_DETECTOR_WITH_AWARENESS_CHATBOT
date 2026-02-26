@@ -43,16 +43,26 @@ This project combines **Machine Learning**, **Text Processing**, and **User Inte
 ## 📂 Project Structure
 
 AI_BASED_SPAM_MAIL_MESSAGE_DETECTOR_WITH_AWARENESS_CHATBOT/
+
 │
-├── Dataset/               	 # Dataset used for training																																
-├── models/                	 # Saved ML models																																					
-├── app.py                 	 # Main Streamlit application																																
-├── model.py              		 # Model loading and prediction logic																												
-├── auth.py                	 # User authentication system																																
-├── ui.py                  	 # User interface design																																		
-├── text_utils.py          	 # Text preprocessing functions																															
-├── users.pkl              	 # Stored user credentials																																	
-├── test.py                	 # Testing file																																							
+├── Dataset/               	 # Dataset used for training		
+
+├── models/                	 # Saved ML models	
+
+├── app.py                 	 # Main Streamlit application
+
+├── model.py              		 # Model loading and prediction logic		
+
+├── auth.py                	 # User authentication system				
+
+├── ui.py                  	 # User interface design				
+
+├── text_utils.py          	 # Text preprocessing functions	
+
+├── users.pkl              	 # Stored user credentials		
+
+├── test.py                	 # Testing file				
+
 └── README.md																																																						
 
 ---
